@@ -1,7 +1,6 @@
 # Face detection & Emotion recognition
 ------------------------------------------------
 
-
 ## Pre-requisites
 
 * Tensorflow
