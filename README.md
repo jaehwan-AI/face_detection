@@ -4,12 +4,17 @@
 ## Pre-requisites
 
 * argparse
-* Tensorflow
+    > pip install argparse
 * Keras
+    > pip install keras
 * opencv-python
+    > pip install opencv-python
 * opencv-contrib-python
+    > pip install opencv-contrib-python
 * Numpy
+    > pip install numpy
 * facenet-pytorch
+    > pip install facenet-pytorch
 
 ## Usage
 
