@@ -3,13 +3,13 @@
 
 ## Pre-requisites
 
+* argparse
 * Tensorflow
 * Keras
 * opencv-python
 * opencv-contrib-python
 * Numpy
-* Pillow
-
+* facenet-pytorch
 
 ## Usage
 
@@ -20,15 +20,18 @@ $ git clone https://github.com/jaehwan-AI/face_detect
 
 >**image input**
 ```bash
-$ python detect_demo.py --image data/image.jpg
+$ python detect_demo.py --image data/image/image1.jpg
 ```
 
 >**video input**
 ```bash
-$ python detect_demo.py --video data/video.mp4
+$ python detect_demo.py --video data/video/video1.mp4
 ```
 
 >**webcam**
 ```bash
 $ python detect_demo.py --src 0
 ```
+
+
+
