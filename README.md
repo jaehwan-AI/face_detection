@@ -13,9 +13,7 @@
 
 ## Usage
 
-* Clone this repository
-
-$ git clone https://github.com/jaehwan-AI/face_detect
+* Clone this repository: $ git clone https://github.com/jaehwan-AI/face_detect
 
 * Run the demo:
 
