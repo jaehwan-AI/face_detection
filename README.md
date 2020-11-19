@@ -68,15 +68,19 @@ In order to inference the model, we used pre-learned weights using XCEPTION deve
 ## Sample Outputs
 
 sample image:
-image link [https://sports.news.naver.com/news.nhn?oid=477&aid=0000253987](https://sports.news.naver.com/news.nhn?oid=477&aid=0000253987)
+
 
 ![alt tag](sample/sample1.jpg)
 
+image link [https://sports.news.naver.com/news.nhn?oid=477&aid=0000253987]
+(https://sports.news.naver.com/news.nhn?oid=477&aid=0000253987)
+
 sample video:
-video link [https://www.youtube.com/watch?v=Xc1R_LoSifo]
-(https://www.youtube.com/watch?v=Xc1R_LoSifo)
 
 ![alt tag](sample/sample2.gif)
+
+video link [https://www.youtube.com/watch?v=Xc1R_LoSifo]
+(https://www.youtube.com/watch?v=Xc1R_LoSifo)
 
 sample webcam:
 
