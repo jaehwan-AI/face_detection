@@ -47,3 +47,8 @@ sample video:
 
 ![alt tag](sample/sample2.gif)
 
+## Reference
+
+* code reference 
+* video link [here](https://www.youtube.com/watch?v=Xc1R_LoSifo)
+* trained model [here](https://github.com/oarriaga/face_classification)
