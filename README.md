@@ -36,8 +36,10 @@ $ python detect_demo.py --src 0
 ## Sample outputs
 
 sample image:
+
 ![alt tag](sample/sample1.jpg)
 
 sample video:
+
 ![alt tag](sample/sample2.gif)
 
