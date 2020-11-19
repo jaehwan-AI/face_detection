@@ -1,5 +1,16 @@
 # Face detection & Emotion recognition
 ------------------------------------------------
+## Table of Contents
+
+* [Pre-requisites](#pre-requisites)
+* [Quick Start](#quick-start)
+* [Usage](#usage)
+  * [Dataset](#dataset)
+  * [Face Detection](#face-detection)
+  * [Pre-trained Model](#pre-trained-model)
+* [Sample Outputs](#sample-outputs)
+* [References](#references)
+
 
 ## Pre-requisites
 
@@ -16,7 +27,7 @@
 * facenet-pytorch
     > pip install facenet-pytorch
 
-## Usage
+## Quick Start
 
 * Clone this repository: $ git clone https://github.com/jaehwan-AI/face_detect
 
@@ -37,7 +48,24 @@ $ python detect_demo.py --video data/video/video.mp4
 $ python detect_demo.py --src 0
 ```
 
-## Sample outputs
+## Usage
+
+### Dataset
+
+This model trained with FER2013 dataset. [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+The data consists of 48x48 pixel grayscale images of faces. The training set consists of 28,709 examples. The public test set used for the validation consists of 3,589 examples. The dataset have pictures based on the emotion shown in the facial expression in to one of seven categories.
+
+
+### Face Detection
+
+We used MTCNN as a facial recognition technology to analyze emotions. MTCNN uses image pyramids by resizing images entered on different scales to recognize faces of different sizes in the images.
+
+### Pre-trained Model
+
+In order to inference the model, we used pre-learned weights using XCEPTION developed from Google(2017).
+![alt tag](xception.png)
+
+## Sample Outputs
 
 sample image:
 
@@ -47,7 +75,11 @@ sample video:
 
 ![alt tag](sample/sample2.gif)
 
-## Reference
+sample webcam:
+
+![alt tag](sample/sample3.gif)
+
+## References
 
 * code reference 
 * video link [here](https://www.youtube.com/watch?v=Xc1R_LoSifo)
