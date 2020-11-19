@@ -72,15 +72,13 @@ sample image:
 
 ![alt tag](sample/sample1.jpg)
 
-image link [https://sports.news.naver.com/news.nhn?oid=477&aid=0000253987]
-(https://sports.news.naver.com/news.nhn?oid=477&aid=0000253987)
+image link [https://sports.news.naver.com/news.nhn?oid=477&aid=0000253987](https://sports.news.naver.com/news.nhn?oid=477&aid=0000253987)
 
 sample video:
 
 ![alt tag](sample/sample2.gif)
 
-video link [https://www.youtube.com/watch?v=Xc1R_LoSifo]
-(https://www.youtube.com/watch?v=Xc1R_LoSifo)
+video link [https://www.youtube.com/watch?v=Xc1R_LoSifo](https://www.youtube.com/watch?v=Xc1R_LoSifo)
 
 sample webcam:
 
@@ -88,13 +86,10 @@ sample webcam:
 
 ## References
 
-1. Tim Esler's facenet-pytorch repo: [https://github.com/timesler/facenet-pytorch]
-(https://github.com/timesler/facenet-pytorch)
+1. Tim Esler's facenet-pytorch repo: [https://github.com/timesler/facenet-pytorch](https://github.com/timesler/facenet-pytorch)
 
-1. Octavio Arriaga's pre-trained model repo: [https://github.com/oarriaga/face_classification]
-(https://github.com/oarriaga/face_classification)
+1. Octavio Arriaga's pre-trained model repo: [https://github.com/oarriaga/face_classification](https://github.com/oarriaga/face_classification)
 
 1. K. Zhang, Z. Zhang, Z. Li and Y. Qiao. _Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks_, IEEE Signal Processing Letters, 2016. [PDF](https://arxiv.org/abs/1604.02878)
 
-1. F. Chollet. _Xception: Deep Learning with Depthwise Separable Convolutions_, 2017. [PDF]
-(https://arxiv.org/abs/1610.02357)
+1. F. Chollet. _Xception: Deep Learning with Depthwise Separable Convolutions_, 2017. [PDF](https://arxiv.org/abs/1610.02357)
