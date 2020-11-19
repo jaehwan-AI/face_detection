@@ -33,5 +33,11 @@ $ python detect_demo.py --video data/video/video.mp4
 $ python detect_demo.py --src 0
 ```
 
+## Sample outputs
 
+sample image:
+![alt tag](sample/sample1.png)
+
+sample video:
+![alt tag](sample/sample2.gif)
 
