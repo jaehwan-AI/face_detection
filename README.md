@@ -65,7 +65,7 @@ In order to inference the model, we used pre-learned weights using XCEPTION deve
 
 ![alt tag](xception.PNG)
 
-<img src="xception.PNG" width="48">
+<img src="xception.PNG" width="50%">
 
 ## Sample Outputs
 
