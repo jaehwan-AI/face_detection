@@ -22,17 +22,17 @@
 
 * Run the demo:
 
-  >**image input**
+>**image input**
 ```bash
 $ python detect_demo.py --image data/image/image.jpg
 ```
 
-   >**video input**
+>**video input**
 ```bash
 $ python detect_demo.py --video data/video/video.mp4
 ```
 
-   >**webcam**
+>**webcam**
 ```bash
 $ python detect_demo.py --src 0
 ```
