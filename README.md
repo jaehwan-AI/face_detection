@@ -20,12 +20,12 @@ $ git clone https://github.com/jaehwan-AI/face_detect
 
 >**image input**
 ```bash
-$ python detect_demo.py --image data/image/image1.jpg
+$ python detect_demo.py --image data/image/image.jpg
 ```
 
 >**video input**
 ```bash
-$ python detect_demo.py --video data/video/video1.mp4
+$ python detect_demo.py --video data/video/video.mp4
 ```
 
 >**webcam**
