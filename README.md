@@ -1,4 +1,4 @@
-# Face detection & Emotion recognition
+# Face detection & recognition
 ------------------------------------------------
 ## Table of Contents
 
